@@ -94,15 +94,6 @@ export const ImageDiv = styled.div`
     border: 2px solid whitesmoke;
     border-radius: 38px;
 `
-// export const Image = styled.img`
-//     border: 1px solid whitesmoke;
-//     border-radius: 30px;
-// `
-export const OverLapImage = styled(Image)`
-    margin-left: -30px;
-    position: relative;
-
-`
 
 export const Firstimage = styled(Image)`
     margin-left: -30px;
